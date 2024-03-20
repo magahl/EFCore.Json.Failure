@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "ProductsDb": "Server=(local);Database=Json.Failure;Trusted_Connection=True;MultipleActiveResultSets=True;Integrated Security=True;TrustServerCertificate=true"
+  }
+}
